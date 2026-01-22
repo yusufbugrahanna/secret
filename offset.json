@@ -14,10 +14,17 @@
     "isdead": "7CC",
     "wh": "7C0",
     "dinput_z": "30280",
-    "dinput_1": "3025a",
-    "dinput_2": "3025a",
-    "dinput_3": "3025c",
-    "dinput_4": "3025c"
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
  "Elsmt2": {
   "name": "10",
@@ -39,10 +46,17 @@
   "onehit": "550",
   "noclip": "6B4",
   "dinput_z": "30280",
-  "dinput_1": "3025A",
-  "dinput_2": "3025A",
-  "dinput_3": "3025C",
-  "dinput_4": "3025C"
+  "dinput_1": "30218",
+  "dinput_2": "3021C",
+  "dinput_3": "30220",
+  "dinput_4": "30224",
+  "dinput_space": "302F4",
+  "dinput_f1": "302FC",
+  "dinput_f2": "30300",
+  "dinput_f3": "30304",
+  "dinput_f4": "30308",
+  "dinput_ctrl": "30244",
+  "dinput_g": "30258"
 },
   "Metin35": {
     "name": "14",
@@ -59,10 +73,17 @@
     "isdead": "55C",
     "wh": "7C0",
     "dinput_z": "30280",
-    "dinput_1": "3025a",
-    "dinput_2": "3025a",
-    "dinput_3": "3025c",
-    "dinput_4": "3025c"
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
   "Alves2": {
     "name": "10",
@@ -85,10 +106,17 @@
     "noclip": "6E8",
     "chartype": "58C",
     "dinput_z": "30280",
-    "dinput_1": "3025A",
-    "dinput_2": "3025A",
-    "dinput_3": "3025C",
-    "dinput_4": "3025C"
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308"
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
 },
     "Naira2": {
     "name": "14",
@@ -103,7 +131,19 @@
     "z": "6CC",
     "mbvid": "7B8",
     "isdead": "6A0",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
   "Menthe2": {
     "name": "10",
@@ -118,7 +158,19 @@
     "z": "7EC",
     "mbvid": "8D0",
     "isdead": "7C0",
-    "wh": "8D8"
+    "wh": "8D8",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
   "Mandes2": {
     "name": "10",
@@ -138,10 +190,17 @@
     "chartype": "6F4",
     "onehit": "6EC",
     "dinput_z": "30280",
-    "dinput_1": "3025A",
-    "dinput_2": "3025A",
-    "dinput_3": "3025C",
-    "dinput_4": "3025C"
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
   "HardSchool2": {
     "name": "10",
@@ -156,7 +215,19 @@
     "z": "654",
     "mbvid": "73C",
     "isdead": "628",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
     "Laren2": {
     "name": "10",
@@ -171,7 +242,19 @@
     "z": "5CC",
     "mbvid": "6b0",
     "isdead": "5a4",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308"
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
     },
     "Merlen2": {
     "name": "10",
@@ -186,7 +269,19 @@
     "z": "678",
     "mbvid": "764",
     "isdead": "64C",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
       
     "EmekMT2": {
@@ -202,7 +297,19 @@
     "z": "664",
     "mbvid": "74C",
     "isdead": "638",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
   },
     "Metin2012": {
     "name": "14",
@@ -217,6 +324,18 @@
     "z": "680",
     "mbvid": "768",
     "isdead": "654",
-    "wh": "7C0"
+    "wh": "7C0",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
       }
 }
