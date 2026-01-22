@@ -26,38 +26,38 @@
     "dinput_ctrl": "30244",
     "dinput_g": "30258"
   },
- "Elsmt2": {
-  "name": "10",
-  "level": "3C",
-  "karakterp": "metin2client.bin+356808",
-  "karakterp2": "c",
-  "entityp": "metin2client.bin+30A8D4",
-  "radar": "554",
-  "frmbotpointer": "metin2client.bin+35C644",
-  "frmbotoffset": "50",
-  "x": "5C0",
-  "y": "5C4",
-  "z": "5C8",
-  "mbvid": "6AC",
-  "isdead": "59C",
-  "rotation": "5F8",
-  "attackspeed": "5EC",
-  "movespeed": "5F0",
-  "onehit": "550",
-  "noclip": "6B4",
-  "dinput_z": "30280",
-  "dinput_1": "30218",
-  "dinput_2": "3021C",
-  "dinput_3": "30220",
-  "dinput_4": "30224",
-  "dinput_space": "302F4",
-  "dinput_f1": "302FC",
-  "dinput_f2": "30300",
-  "dinput_f3": "30304",
-  "dinput_f4": "30308",
-  "dinput_ctrl": "30244",
-  "dinput_g": "30258"
-},
+  "Elsmt2": {
+    "name": "10",
+    "level": "3C",
+    "karakterp": "metin2client.bin+356808",
+    "karakterp2": "c",
+    "entityp": "metin2client.bin+30A8D4",
+    "radar": "554",
+    "frmbotpointer": "metin2client.bin+35C644",
+    "frmbotoffset": "50",
+    "x": "5C0",
+    "y": "5C4",
+    "z": "5C8",
+    "mbvid": "6AC",
+    "isdead": "59C",
+    "rotation": "5F8",
+    "attackspeed": "5EC",
+    "movespeed": "5F0",
+    "onehit": "550",
+    "noclip": "6B4",
+    "dinput_z": "30280",
+    "dinput_1": "30218",
+    "dinput_2": "3021C",
+    "dinput_3": "30220",
+    "dinput_4": "30224",
+    "dinput_space": "302F4",
+    "dinput_f1": "302FC",
+    "dinput_f2": "30300",
+    "dinput_f3": "30304",
+    "dinput_f4": "30308",
+    "dinput_ctrl": "30244",
+    "dinput_g": "30258"
+  },
   "Metin35": {
     "name": "14",
     "karakterp": "metin2client.bin+3DB0C0",
@@ -114,11 +114,11 @@
     "dinput_f1": "302FC",
     "dinput_f2": "30300",
     "dinput_f3": "30304",
-    "dinput_f4": "30308"
+    "dinput_f4": "30308",
     "dinput_ctrl": "30244",
     "dinput_g": "30258"
-},
-    "Naira2": {
+  },
+  "Naira2": {
     "name": "14",
     "karakterp": "clientv8.bin+1A4A330",
     "karakterp2": "C",
@@ -229,7 +229,7 @@
     "dinput_ctrl": "30244",
     "dinput_g": "30258"
   },
-    "Laren2": {
+  "Laren2": {
     "name": "10",
     "karakterp": "metin2client.bin+4FB3A0",
     "karakterp2": "C",
@@ -252,11 +252,11 @@
     "dinput_f1": "302FC",
     "dinput_f2": "30300",
     "dinput_f3": "30304",
-    "dinput_f4": "30308"
+    "dinput_f4": "30308",
     "dinput_ctrl": "30244",
     "dinput_g": "30258"
-    },
-    "Merlen2": {
+  },
+  "Merlen2": {
     "name": "10",
     "karakterp": "marlen2client.bin+308F44",
     "karakterp2": "10",
@@ -283,8 +283,7 @@
     "dinput_ctrl": "30244",
     "dinput_g": "30258"
   },
-      
-    "EmekMT2": {
+  "EmekMT2": {
     "name": "14",
     "karakterp": "metin2client.bin+50E0B4",
     "karakterp2": "C",
@@ -295,47 +294,4 @@
     "x": "65C",
     "y": "660",
     "z": "664",
-    "mbvid": "74C",
-    "isdead": "638",
-    "wh": "7C0",
-    "dinput_z": "30280",
-    "dinput_1": "30218",
-    "dinput_2": "3021C",
-    "dinput_3": "30220",
-    "dinput_4": "30224",
-    "dinput_space": "302F4",
-    "dinput_f1": "302FC",
-    "dinput_f2": "30300",
-    "dinput_f3": "30304",
-    "dinput_f4": "30308",
-    "dinput_ctrl": "30244",
-    "dinput_g": "30258"
-  },
-    "Metin2012": {
-    "name": "14",
-    "karakterp": "temD16B.tmp+48F1A8",
-    "karakterp2": "C",
-    "entityp": "temD16B.tmp+4F44CC",
-    "radar": "60C",
-    "frmbotpointer": "temD16B.tmp+4B6374",
-    "frmbotoffset": "50",
-    "x": "678",
-    "y": "67C",
-    "z": "680",
-    "mbvid": "768",
-    "isdead": "654",
-    "wh": "7C0",
-    "dinput_z": "30280",
-    "dinput_1": "30218",
-    "dinput_2": "3021C",
-    "dinput_3": "30220",
-    "dinput_4": "30224",
-    "dinput_space": "302F4",
-    "dinput_f1": "302FC",
-    "dinput_f2": "30300",
-    "dinput_f3": "30304",
-    "dinput_f4": "30308",
-    "dinput_ctrl": "30244",
-    "dinput_g": "30258"
-      }
-}
+    "mbvid": "74
