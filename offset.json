@@ -133,7 +133,14 @@
     "z": "764",
     "mbvid": "848",
     "isdead": "738",
-    "wh": "850"
+    "wh": "850",
+    "chartype": "6F4",
+    "onehit": "6EC"
+    "dinput_z": "30280",
+    "dinput_1": "3025A",
+    "dinput_2": "3025A",
+    "dinput_3": "3025C",
+    "dinput_4": "3025C"
   },
   "HardSchool2": {
     "name": "10",
