@@ -75,7 +75,7 @@
   "dinput_4": "3025D",
   "dinput_ctrl": "30274",
   "dinput_g": "3027A"
-  },
+    },
   "Alves2": {
     "name": "10",
     "level": "3C",
@@ -85,6 +85,9 @@
     "radar": "588",
     "frmbotpointer": "client2.bin+3C2D84",
     "frmbotoffset": "80",
+	"farmbotstateoffset": "84",
+	"movetodestoffsetx": "1C5EC",
+	"movetodestoffsety": "1C5F0",
     "x": "5F4",
     "y": "5F8",
     "z": "5FC",
