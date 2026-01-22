@@ -13,7 +13,7 @@
     "mbvid": "8E4",
     "isdead": "7CC",
     "wh": "7C0",
-    "dinput_z": "30280",
+   "dinput_z": "30280",
   "dinput_1": "3025A",
   "dinput_2": "3025B",
   "dinput_3": "3025C",
@@ -21,7 +21,7 @@
   "dinput_ctrl": "30274",
   "dinput_g": "3027A",
   "dinput_space": "30290",
-  "dinput_f1": "30293",
+  "dinput_f1": "30292",
   "dinput_f2": "30294",
   "dinput_f3": "30295",
   "dinput_f4": "30296"
