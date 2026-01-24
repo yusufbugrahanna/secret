@@ -26,6 +26,7 @@
   "dinput_4": "3025D",
   "dinput_ctrl": "30274",
   "dinput_g": "3027A"
+	  
   },
   "Elsmt2": {
     "name": "10",
@@ -183,6 +184,11 @@
 	"weapontype": "628",
 	"attackspeed": "790",
     "movespeed": "78C",
+	"dinput_f1": "30293",
+	"dinput_f2": "30294",
+	"dinput_f3": "30295",
+	"dinput_f4": "30296",
+	"dinput_space": "30290",
   "dinput_z": "30280",
   "dinput_1": "3025A",
   "dinput_2": "3025B",
