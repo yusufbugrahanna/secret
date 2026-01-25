@@ -52,6 +52,7 @@
     "radar": "554",
     "frmbotpointer": "metin2client.bin+35C644",
     "frmbotoffset": "50",
+	  "farmbotstateoffset": "54",
 	   	  "statoffset": "1B4A8",
 	    "currenthp":"0x28",
 	"maxhp":"0x30",
