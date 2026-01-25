@@ -162,7 +162,7 @@
   "dinput_3": "3025C",
   "dinput_4": "3025D",
   "dinput_ctrl": "30274",
-  "dinput_g": "3027A"A"
+  "dinput_g": "3027A"
   },
   "Menthe2": {
     "name": "10",
@@ -172,6 +172,7 @@
     "radar": "778",
     "frmbotpointer": "metin2client.bin+361044",
     "frmbotoffset": "90",
+	"statoffset": "46438",
     "x": "7E4",
     "y": "7E8",
     "z": "7EC",
