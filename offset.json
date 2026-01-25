@@ -70,6 +70,7 @@
     "rotation": "5F8",
     "onehit": "550",
     "noclip": "6B4",
+	"weapontype": "48C",
 	"dinput_f1": "30293",
 	"dinput_f2": "30294",
 	"dinput_f3": "30295",
