@@ -201,6 +201,7 @@
     "radar": "6F0",
     "frmbotpointer": "metin2client.bin+361024",
     "frmbotoffset": "90",
+	"statoffset": "46438",
 	"farmbotstateoffset": "94",
 	"movetodestoffsetx": "46C5C",
 	"movetodestoffsety": "46C60",
